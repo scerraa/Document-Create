@@ -1,0 +1,9 @@
+C:\Users\bnbcd\source\repos\DocumentCreateRabbitMQ\Document\bin\Debug\Document.dll
+C:\Users\bnbcd\source\repos\DocumentCreateRabbitMQ\Document\bin\Debug\Document.pdb
+C:\Users\bnbcd\source\repos\DocumentCreateRabbitMQ\Document\bin\Debug\Document.xml
+C:\Users\bnbcd\source\repos\DocumentCreateRabbitMQ\Document\obj\Debug\Document.Resources.resources
+C:\Users\bnbcd\source\repos\DocumentCreateRabbitMQ\Document\obj\Debug\Document.vbproj.GenerateResource.cache
+C:\Users\bnbcd\source\repos\DocumentCreateRabbitMQ\Document\obj\Debug\Document.vbproj.CoreCompileInputs.cache
+C:\Users\bnbcd\source\repos\DocumentCreateRabbitMQ\Document\obj\Debug\Document.dll
+C:\Users\bnbcd\source\repos\DocumentCreateRabbitMQ\Document\obj\Debug\Document.xml
+C:\Users\bnbcd\source\repos\DocumentCreateRabbitMQ\Document\obj\Debug\Document.pdb
